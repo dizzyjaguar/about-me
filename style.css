@@ -8,15 +8,18 @@ body {
 }
 
 h1 {
-    
+    text-decoration: underline;
+    font-size: 40px;
+    color: cornsilk;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h2 {
-
+    text-decoration: underline;
 }
 
 p {
-
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 img {
@@ -98,5 +101,9 @@ header {
     background-color: green;
     width: 210px;
     height: 110px;
-    
+}
+
+#results {
+    font-size: 40px;
+    color: orange;
 }
