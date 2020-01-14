@@ -8,9 +8,13 @@ quizButton.addEventListener('click', () => {
     const agreement = confirm(`Hey there ${userName} are you ready for the quiz?`);
     if (agreement === false) return;
 
-
+    answerOne = prompt('Was Jazz was invented in the 1960\'s?');
+    answerTwo = prompt('Was Charlie Parker is the godfather of Bebop?');
+    answerThree = prompt('Did Thelonius Monk played Alto Saxophone?');
+    answerFour = prompt('Miles Davis played with Charlie Parker');
+    answerFive = prompt('Ragtime is a mdoern form of Jazz that first started in 1980s')
 
     let counter = 0;
-
+    
 
 });
