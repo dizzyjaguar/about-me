@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;    
+}
+
+body {
+    background-color: black;
+    color: cornsilk;
+}
+
+h1 {
+    
+}
+
+h2 {
+
+}
+
+p {
+
+}
+
+img {
+    max-width: 200px;
+    height: auto;
+    margin-left: 100px;
+}
