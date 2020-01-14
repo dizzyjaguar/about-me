@@ -3,7 +3,7 @@
 import isYes from '../isYes.js';
 const test = QUnit.test;
 
-QUnit.module("Test for isYes");
+QUnit.module('Test for isYes');
 
 test('YES, y, ya, should be true', function(assert) {
     //Arrange
